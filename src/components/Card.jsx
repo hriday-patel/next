@@ -19,7 +19,7 @@ const Card = ({ place }) => {
     <motion.article style={{
         scale: scale
     }} ref={ref} className="group my-30 overflow-hidden rounded-md border-2 border-black/5 drop-shadow-2xl drop-shadow-neutral-800 hover:shadow-2xl transition-shadow duration-300 ease-linear relative">
-    <Link  href="/" alt={place.title} className="p-10 grid grid-cols-2 gap-x-10 items-center">
+    <Link  href={`/events/${place.title}`} alt={place.title} className="p-10 grid grid-cols-2 gap-x-10 items-center">
         <motion.div style={{
             translateY: translate,
             filter: useMotionTemplate`blur(${blur}px)`,

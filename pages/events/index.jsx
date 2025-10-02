@@ -1,6 +1,6 @@
-const Events = () => {
+const EventsPage = () => {
   return (
-    <div>Events</div>
+    <div>EventsPage</div>
   )
 }
-export default Events
+export default EventsPage
