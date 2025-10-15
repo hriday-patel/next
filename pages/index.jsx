@@ -1,14 +1,11 @@
 "use client";
-
-import { Title } from "chart.js";
-
 import Link from "next/link";
 import { motion, stagger, useAnimate, useMotionValueEvent, useScroll } from "motion/react";
 import { useEffect, useRef, useState } from "react";
 import Sidebar from "@/components/Sidebar";
 import Card from "@/components/Card";
 
-export default function Home() {
+function Home() {
   const places = [
     {
       title: "London",
@@ -85,6 +82,7 @@ export default function Home() {
 
   const backgrounds = ["bg-[#4d0710]", "bg-[#4f0147]", "bg-[#3a015c]"];
   return (
+    
     <motion.div 
     animate={{
       backgroundColor: bgc,
@@ -95,7 +93,8 @@ export default function Home() {
     }}
     ref={contref}
     className="flex min-h-screen flex-col w-full relative overflow-hidden">
-      <header className="sticky top-0 bg-neutral-700/80 backdrop-blur-sm">
+      
+      <header className="fixed w-full z-50 top-0 bg-neutral-700/80 backdrop-blur-sm">
         <div className="container mx-auto">
           <motion.nav
             ref={scope}
@@ -147,12 +146,16 @@ export default function Home() {
           </div>
         </section>
       </main>
-      <footer className="sticky bottom-0 w-full" >
+      <footer className="bottom-0 w-full" >
         <section className="flex justify-center items-center py-20 bg-neutral-700/80 inset-shadow-yellow-700/50 inset-shadow-sm/30">
           <span className="font-mono">@FOOTER 2025 Copyrights Limited</span>
         </section>
       </footer>
-      <Sidebar />
+      <Sidebar/>
     </motion.div>
   );
 }
+
+
+
+export default Home;

@@ -1,3 +1,5 @@
+"use client";
+
 import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/solid";
 import { UserCircleIcon } from "@heroicons/react/24/solid";
 import {
@@ -72,7 +74,7 @@ const Sidebar = () => {
       onHoverEnd={() => setOpen(false)}
       animate={open ? "open" : "close"}
       exit="close"
-      className="h-screen backdrop-blur-sm border-l border-neutral-800/10 shadow-md absolute right-0 rounded-tl-2xl rounded-bl-2xl cursor-pointer px-4"
+      className="h-screen backdrop-blur-sm border-l border-neutral-800/10 shadow-md absolute right-0 rounded-tl-2xl rounded-bl-2xl cursor-pointer px-4 z-50"
     >
       <motion.nav 
       variants={sidebarvariant}
