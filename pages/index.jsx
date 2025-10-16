@@ -6,26 +6,7 @@ import Sidebar from "@/components/Sidebar";
 import Card from "@/components/Card";
 
 function Home() {
-  const places = [
-    {
-      title: "London",
-      content:
-        "London is constantly buzzing with events for every taste. Art and culture lovers can enjoy the London Film Festival in October, the Frieze Art Fair in Regent’s Park, the BBC Proms classical music series during summer, and world-class West End theatre shows running year-round. The city also comes alive with seasonal and traditional events like the Notting Hill Carnival in August, Trooping the Colour in June, New Year’s Eve fireworks along the Thames, and Christmas markets including Winter Wonderland in Hyde Park.",
-      src: "/london.jpg",
-    },
-    {
-      title: "Barcelona",
-      content:
-        "Barcelona is a vibrant city full of events that celebrate its culture, music, and traditions. Art and culture enthusiasts can enjoy events like the Barcelona International Jazz Festival in autumn, the Sónar Festival for electronic and experimental music in June, and numerous exhibitions at the Museu Picasso or MACBA throughout the year.",
-      src: "/barca.jpg",
-    },
-    {
-      title: "San Fransisco",
-      content:
-        "San Francisco is a city that never stops celebrating culture, music, and innovation. Art and culture enthusiasts can attend events like San Francisco International Film Festival in spring, the SF Jazz Festival in summer, and numerous exhibitions at the San Francisco Museum of Modern Art (SFMOMA) throughout the year. The city also hosts iconic seasonal and traditional events such as Chinese New Year Parade in February, Fleet Week in October with spectacular air shows, and the Bay to Breakers race in May, known for its quirky costumes and massive participation.",
-      src: "/sf.jpg",
-    },
-  ];
+  
 
   const lists = [
     {
@@ -159,3 +140,7 @@ function Home() {
 
 
 export default Home;
+
+export async function getStaticProps(){
+  
+}
