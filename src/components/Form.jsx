@@ -150,9 +150,8 @@ const Form = () => {
         body: JSON.stringify({ dataId, value }),
       });
       if (!response.ok) {
-        if (response.status === 409) {
-          setError("Email is already registered!");
-        }
+        const errData = response.json();
+        setError(errData.message);
         return;
       }
       const data = await response.json();
