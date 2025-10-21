@@ -21,7 +21,7 @@ const Card = ({ place }) => {
     <motion.article style={{
         scale: scale
     }} ref={ref} className="group my-30 overflow-hidden rounded-md border-2 border-black/5 drop-shadow-2xl drop-shadow-neutral-800 hover:shadow-2xl transition-shadow duration-300 ease-linear relative">
-    <Link  href={`/events/${place.title}`} alt={place.title} className="p-10 grid grid-cols-2 gap-x-10 items-center">
+    <Link  href={`/events/${place.id}`} alt={place.title} className="p-10 grid grid-cols-2 gap-x-10 items-center">
         <motion.div style={{
             translateY: translate,
             filter: useMotionTemplate`blur(${blur}px)`,
@@ -30,11 +30,11 @@ const Card = ({ place }) => {
           <div className="flex flex-col items-start">
             <MapPinIcon className="w-10 h-10 text-white"></MapPinIcon>
             <h2 className="text-4xl text-white font-sans font-semibold">
-              Events in {place.title}
+              {place.title}
             </h2>
           </div>
           <p className="text-lg tracking-wide leading-normal text-white">
-            {place.content}
+            {place.description}
           </p>
         </motion.div>
         <motion.div style={{
@@ -43,8 +43,8 @@ const Card = ({ place }) => {
 
         }} className="rounded-4xl overflow-hidden">
         <Image
-          src={place.src}
-          alt={place.title}
+          src={place.image}
+          alt={place.id}
           width={500}
           height={500}
           className="w-full h-full object-cover rounded-4xl group-hover:scale-105 transition-transform duration-300 ease-linear"

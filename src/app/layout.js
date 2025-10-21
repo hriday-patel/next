@@ -1,7 +1,7 @@
 
 
 import { Geist, Geist_Mono, Playfair_Display } from "next/font/google";
-import "./globals.css";
+import '../../styles/globals.css'
 
 
 const geistSans = Geist({
