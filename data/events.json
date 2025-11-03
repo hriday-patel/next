@@ -1,1 +1,150 @@
-{"events_categories":[{"id":"London","title":"Events in London","description":"London is constantly buzzing with events for every taste. Art and culture lovers can enjoy the London Film Festival in October, the Frieze Art Fair in Regent’s Park, the BBC Proms classical music series during summer, and world-class West End theatre shows running year-round. The city also comes alive with seasonal and traditional events like the Notting Hill Carnival in August, Trooping the Colour in June, New Year’s Eve fireworks along the Thames, and Christmas markets including Winter Wonderland in Hyde Park.","image":"/london.jpg"},{"id":"San-Francisco","title":"Events in San Francisco","description":"San Francisco is a city that never stops celebrating culture, music, and innovation. Art and culture enthusiasts can attend events like San Francisco International Film Festival in spring, the SF Jazz Festival in summer, and numerous exhibitions at the San Francisco Museum of Modern Art (SFMOMA) throughout the year. The city also hosts iconic seasonal and traditional events such as Chinese New Year Parade in February, Fleet Week in October with spectacular air shows, and the Bay to Breakers race in May, known for its quirky costumes and massive participation.","image":"/sf.jpg"},{"id":"Barcelona","title":"Events in Barcelona","description":"Barcelona is a vibrant city full of events that celebrate its culture, music, and traditions. Art and culture enthusiasts can enjoy events like the Barcelona International Jazz Festival in autumn, the Sónar Festival for electronic and experimental music in June, and numerous exhibitions at the Museu Picasso or MACBA throughout the year.","image":"/barca.jpg"}],"allEvents":[{"id":"london-comic-con-winter","title":"London Comic Con Winter","city":"London","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1608889476561-6242cfdbf622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","emails_registered":["patelhriday23@gmail.com","sauviknandi@gmail.com","sahduih@gmail.com","divyanshu@gmail.com","patelhriday23@text.com","darshparikh@gmail.com","patelhriday23@outlook.com","patelhriday23@test.com","patelhriday23@micro.com"]},{"id":"hyde-park-winter-wonderland","title":"Hyde Park Winter Wonderland","city":"London","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://hydeparkwinterwonderland.com/static/252d7fe6693a6a8b1887bd2049204103/039f7/2021-503x503-3.webp","emails_registered":[]},{"id":"new-years-eve-in-london-2023","title":"New Years Eve in London 2023 ","city":"London","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1521478413868-1bbd982fa4a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","emails_registered":[]},{"id":"'edtech-world-summit-2022","title":"EdTech World Summit 2022","city":"London","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","emails_registered":[]},{"id":"sigala-at-electric-brixton","title":"Sigala at Electric Brixton","city":"London","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","emails_registered":[]},{"id":"kiss-haunted-house-party-2022","title":"KISS Haunted House Party 2022","city":"London","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://wembleypark.com/media/images/KISS-HHP-42-1440x810-Logos-Date-de.2e16d0ba.fill-496x279.jpg","emails_registered":[]},{"id":"sf-blockchain-week","title":"SF Blockchain Week","city":"San-Francisco","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80","emails_registered":[]},{"id":"innovation-summit-san-francisco","title":"Innovation Summit San Francisco","city":"San-Francisco","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80","emails_registered":[]},{"id":"fan-expo-san-francisco","title":"FAN EXPO San Francisco","city":"San-Francisco","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80","emails_registered":[]},{"id":"san-francisco-opera---san-francisco-tickets","title":"San Francisco Opera - San Francisco Tickets","city":"San-Francisco","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80","emails_registered":[]},{"id":"concert-christian-löffler-+-detect-ensemble","title":"Concert Christian Löffler + Detect Ensemble","city":"Barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","emails_registered":[]},{"id":"the-halloween-house-party","title":"The Halloween House Party","city":"Barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1587407627257-27b7127c868c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80","emails_registered":[]},{"id":"international-conference-on-industrial-design","title":"International Conference on Industrial Design","city":"Barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","emails_registered":[]},{"id":"world-congress-2022---barcelona","title":"World Congress 2022 - Barcelona","city":"Barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","emails_registered":[]},{"id":"riskminds-international","title":"RiskMinds International","city":"Barcelona","description":"Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.","image":"https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","emails_registered":[]}]}
+{
+  "events_categories": [
+    {
+      "id": "London",
+      "title": "Events in London",
+      "description": "London is constantly buzzing with events for every taste. Art and culture lovers can enjoy the London Film Festival in October, the Frieze Art Fair in Regent’s Park, the BBC Proms classical music series during summer, and world-class West End theatre shows running year-round. The city also comes alive with seasonal and traditional events like the Notting Hill Carnival in August, Trooping the Colour in June, New Year’s Eve fireworks along the Thames, and Christmas markets including Winter Wonderland in Hyde Park.",
+      "image": "/london.jpg"
+    },
+    {
+      "id": "San-Francisco",
+      "title": "Events in San Francisco",
+      "description": "San Francisco is a city that never stops celebrating culture, music, and innovation. Art and culture enthusiasts can attend events like San Francisco International Film Festival in spring, the SF Jazz Festival in summer, and numerous exhibitions at the San Francisco Museum of Modern Art (SFMOMA) throughout the year. The city also hosts iconic seasonal and traditional events such as Chinese New Year Parade in February, Fleet Week in October with spectacular air shows, and the Bay to Breakers race in May, known for its quirky costumes and massive participation.",
+      "image": "/sf.jpg"
+    },
+    {
+      "id": "Barcelona",
+      "title": "Events in Barcelona",
+      "description": "Barcelona is a vibrant city full of events that celebrate its culture, music, and traditions. Art and culture enthusiasts can enjoy events like the Barcelona International Jazz Festival in autumn, the Sónar Festival for electronic and experimental music in June, and numerous exhibitions at the Museu Picasso or MACBA throughout the year.",
+      "image": "/barca.jpg"
+    }
+  ],
+  "allEvents": [
+    {
+      "id": "london-comic-con-winter",
+      "title": "London Comic Con Winter",
+      "city": "London",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1608889476561-6242cfdbf622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "emails_registered": [
+        "patelhriday23@gmail.com",
+        "kulinjain@gmail.com",
+        "kulinjain@test.com",
+        "patek@bdnd.com",
+        "patelhriaay@32.com"
+      ]
+    },
+    {
+      "id": "hyde-park-winter-wonderland",
+      "title": "Hyde Park Winter Wonderland",
+      "city": "London",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://hydeparkwinterwonderland.com/static/252d7fe6693a6a8b1887bd2049204103/039f7/2021-503x503-3.webp",
+      "emails_registered": ["patelhriday23@gmail.com"]
+    },
+    {
+      "id": "new-years-eve-in-london-2023",
+      "title": "New Years Eve in London 2023 ",
+      "city": "London",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1521478413868-1bbd982fa4a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "emails_registered": ["kulinjain@gmail.com"]
+    },
+    {
+      "id": "'edtech-world-summit-2022",
+      "title": "EdTech World Summit 2022",
+      "city": "London",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "sigala-at-electric-brixton",
+      "title": "Sigala at Electric Brixton",
+      "city": "London",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "kiss-haunted-house-party-2022",
+      "title": "KISS Haunted House Party 2022",
+      "city": "London",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://wembleypark.com/media/images/KISS-HHP-42-1440x810-Logos-Date-de.2e16d0ba.fill-496x279.jpg",
+      "emails_registered": []
+    },
+    {
+      "id": "sf-blockchain-week",
+      "title": "SF Blockchain Week",
+      "city": "San-Francisco",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "innovation-summit-san-francisco",
+      "title": "Innovation Summit San Francisco",
+      "city": "San-Francisco",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "fan-expo-san-francisco",
+      "title": "FAN EXPO San Francisco",
+      "city": "San-Francisco",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "san-francisco-opera---san-francisco-tickets",
+      "title": "San Francisco Opera - San Francisco Tickets",
+      "city": "San-Francisco",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "concert-christian-löffler-+-detect-ensemble",
+      "title": "Concert Christian Löffler + Detect Ensemble",
+      "city": "Barcelona",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "the-halloween-house-party",
+      "title": "The Halloween House Party",
+      "city": "Barcelona",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1587407627257-27b7127c868c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "international-conference-on-industrial-design",
+      "title": "International Conference on Industrial Design",
+      "city": "Barcelona",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "world-congress-2022---barcelona",
+      "title": "World Congress 2022 - Barcelona",
+      "city": "Barcelona",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "emails_registered": []
+    },
+    {
+      "id": "riskminds-international",
+      "title": "RiskMinds International",
+      "city": "Barcelona",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+      "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "emails_registered": []
+    }
+  ]
+}

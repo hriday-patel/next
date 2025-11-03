@@ -25,7 +25,9 @@ const Form = () => {
         borderRadius: "1rem",
         backgroundColor: "rgb(253 230 138)",
       });
-
+      animate(".loader", {
+        display: "none",
+      });
       // Show button text
       animate(".butt-text", {
         opacity: 1,
@@ -35,6 +37,7 @@ const Form = () => {
       // Hide checkmark icon
       animate(".iconify", {
         opacity: 0,
+        display: "none",
       });
     }
   };
@@ -122,6 +125,7 @@ const Form = () => {
     animate(
       ".iconify",
       {
+        display: "block",
         opacity: [0, 0.5, 1],
       },
       {
@@ -151,7 +155,7 @@ const Form = () => {
       });
       if (!response.ok) {
         const errData = response.json();
-        setError(errData.message);
+        console.log(errData.message);
         return;
       }
       const data = await response.json();

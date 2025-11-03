@@ -18,8 +18,11 @@ export default async function handleRequest(req, res){
     const data = buildPath();
     const {events_categories, allEvents} = readFile(data);
     if(!allEvents){
-        res.status(404).json({
-            message: 'No events found!'
+        return new Response(JSON.parse({message: 'No events found!'}), {
+            status: 404,
+            headers: {
+                'Content-Type' : 'application/json'
+            }
         })
     }
     if(method === 'POST'){
